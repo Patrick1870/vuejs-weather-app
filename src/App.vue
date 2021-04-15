@@ -44,9 +44,9 @@ export default {
       setResults (results) {
         this.weather = results;
       },
-    dateBuilder () {
-      
-    }
+      dateBuilder () {
+        
+      }
 
   }
 }
